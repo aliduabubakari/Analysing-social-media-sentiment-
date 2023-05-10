@@ -45,7 +45,9 @@ Files available for download are:
 For this project, we utilized pre-trained models from the Hugging Face library, which is a popular library for Natural Language Processing (NLP) tasks. Specifically, we made use of the following models:
 
 **ROBERTA**: The ROBERTA model, available under the name "Abubakari/finetuned-Sentiment-classfication-ROBERTA-model".
+
 **BERT**: The BERT model, available under the name "Abubakari/finetuned-Sentiment-classfication-BERT-model".
+
 **DISTILBERT**: The DISTILBERT model, available under the name "Abubakari/finetuned-Sentiment-classfication-DISTILBERT-model".
 
 These models have been fine-tuned on a sentiment classification task, which makes them suitable for analyzing sentiment in tweets related to vaccinations. By leveraging these pre-trained models, we can benefit from their contextual understanding of language and their ability to extract meaningful representations from text.
