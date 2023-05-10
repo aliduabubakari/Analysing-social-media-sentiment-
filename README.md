@@ -84,7 +84,9 @@ Future Work
 For any inquiries or questions regarding the project, you can contact:
 
 Name: Alidu Abubakari
+
 Role: Data Analyst
+
 Organization: Azubi Africa
 
 
