@@ -28,7 +28,7 @@ This is my submission for Zindi's challenge [To Vaccinate or Not to Vaccinate: I
 - The main goal is to build a machine learning model that can accurately predict the sentiment of vaccination-related tweets. Something similar to this; 
 
 <p align="center">
-  <img src="images/Sentiment-Analysis-hero.jpg" alt="sentiment results" width="600">
+  <img src="images/Sentiment-Analysis-hero.jpg" alt="sentiment results" width="400">
 </p>
 
 ## How to Participate
@@ -100,7 +100,7 @@ The train dataset consist of the following features
 ### GPU Acceleration with Google Colab
 
 <p align="center">
-  <img src="images/gpu.jpg" alt="Colab GPU" width="700">
+  <img src="images/gpu.jpg" alt="Colab GPU" width="500">
 </p>
 
 - Utilized GPUs (Graphics Processing Units) for enhanced performance and faster model training.
