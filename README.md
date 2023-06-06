@@ -2,24 +2,25 @@
 
 # 💉💉💉 Vaccination Sentiment Analysis 💉💉💉
 
-![Image](https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/93/header_4dd2027d-77d5-415c-aae3-d5ae69b5f9b8.png)
+<p align="center">
+  <img src="images/COVID19.jpg" alt="Covid vaccine" width="600">
+</p>
 
 This project focuses on developing a machine learning model to assess the sentiment (positive, neutral, or negative) of Twitter posts related to vaccinations. 
 
 <p align="center">
-  <img src="images/sentiment.jpeg" alt="Sentiment Range" width="800">
+  <img src="images/sentiment.jpeg" alt="Sentiment Range" width="600">
 </p>
 
 This is my submission for Zindi's challenge [To Vaccinate or Not to Vaccinate: It’s not a Question by #ZindiWeekendz](https://zindi.africa/competitions/to-vaccinate-or-not-to-vaccinate).
 
-[![Dataset](https://img.shields.io/badge/Dataset-Crowdbreaks.org-blue)](https://www.crowdbreaks.org/)
-
-
 
 ## Dataset
 
-- The dataset consists of tweets collected and classified through Crowdbreaks.org.
+- The dataset consists of tweets collected and classified through [![Dataset](https://img.shields.io/badge/Dataset-Crowdbreaks.org-blue)](https://www.crowdbreaks.org/).
+
 - Tweets have been labeled as positive (👍), neutral (🤐), or negative(👎).
+
 - Usernames and web addresses have been removed for privacy reasons.
 
 ## Objective
