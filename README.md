@@ -28,7 +28,7 @@ This is my submission for Zindi's challenge [To Vaccinate or Not to Vaccinate: I
 - The main goal is to build a machine learning model that can accurately predict the sentiment of vaccination-related tweets. Something similar to this; 
 
 <p align="center">
-  <img src="images/Sentiment-Analysis-hero.jpg" alt="sentiment results" width="800">
+  <img src="images/Sentiment-Analysis-hero.jpg" alt="sentiment results" width="600">
 </p>
 
 ## How to Participate
@@ -65,7 +65,7 @@ The train dataset consist of the following features
 ## Modelling  
 
 <p align="center">
-  <img src="images/classification.png" alt="ML Process" width="800">
+  <img src="images/classification.png" alt="ML Process" width="700">
 </p>
 
 ### Pre-trained Models and Fine-tuning
@@ -100,7 +100,7 @@ The train dataset consist of the following features
 ### GPU Acceleration with Google Colab
 
 <p align="center">
-  <img src="images/gpu.jpg" alt="Colab GPU" width="800">
+  <img src="images/gpu.jpg" alt="Colab GPU" width="700">
 </p>
 
 - Utilized GPUs (Graphics Processing Units) for enhanced performance and faster model training.
@@ -118,7 +118,7 @@ The train dataset consist of the following features
 ## Evaluation
 
 <p align="center">
-  <img src="images/RMSE.jpg" alt="rmse" width="800">
+  <img src="images/RMSE.jpg" alt="rmse" width="500">
 </p>
 
 
@@ -154,3 +154,5 @@ Organization: Azubi Africa
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) 
 
+
+Read more here: [![Medium](https://img.shields.io/badge/Medium-%23000000?logo=medium&logoColor=white)](https://medium.com/@alidu143/analyzing-sentiment-towards-the-covid-vaccines-using-pretrained-huggingface-models-8222d2e3610d)
